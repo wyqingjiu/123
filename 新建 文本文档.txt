@@ -1,0 +1,6 @@
+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 密钥
+
+
+
+git config --global user.email "zxc15250096725@outlook.com"
+ git config --global user.name "wyqingjiu"
